@@ -1,0 +1,147 @@
+body{
+  background-image: url('img/Container.png');
+}
+/*CSS Index*/
+
+.carausel-background img{
+  width: 1335px;
+  height: 700px;
+}
+
+.lading-page{
+  position: absolute;
+  left: 476px;
+  right: 476px;
+  top: 100px;
+  bottom: 329px;
+  line-height: 50px;
+  text-align: center;
+
+}
+
+p.better{
+
+  font-family: Pacifico;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 70px;
+  text-align: center;
+
+  color: #fff;
+}
+
+#travel{
+  font-family: Pacifico;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 40px;
+  text-align: center;
+  color: #FCB371 ;
+}
+
+p.Cheapest {
+  font-family: Roboto Condensed;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 26px;
+  text-align: center;
+
+  color: #fff;
+}
+.btn{
+  display: inline-block;
+  width: 150px;
+  height: 25px;
+  text-decoration: none;
+
+  font-family: Pacifico;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 21px;
+  text-align: center;
+}
+
+/*About CSS*/
+.about img{
+  width: 1335px;
+  height: 700px;
+}
+
+.carousel-content {
+  position: absolute;
+  left: 476px;
+  right: 476px;
+  top: 150px;
+  bottom: 329px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.content{
+    margin: 0 0 80px 0;
+    padding: 0;
+    font-size: 26px;
+    line-height: 26px;
+    
+  color: #FFFFFF;
+}
+
+h3{
+  font-family: Pacifico;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 40px;
+  text-align: center;
+  color: #FCB371 ;
+}
+
+/*Reservation CSS*/
+.form_name{
+  /*membuat lebar form penuh*/
+  box-sizing : border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+}
+
+.form_num{
+  /*membuat lebar form penuh*/
+  box-sizing : border-box;
+  float: left;
+  width: 50%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+}
+
+.link{
+  color: #232323;
+  text-decoration: none;
+  font-size: 10pt;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+
+nav {
+        margin:auto;
+        text-align: left;
+        width: 100%;
+        font-family: arial;
+        font-weight: bold;
+    } 
